@@ -1,5 +1,5 @@
 // api key here
-const apiKey = 'DfIcvI7fE-yaUUEikg7t9M_eD9fNayUzi_WbLwhFrPSkOH-5eOKlub_3B1J4aJhO2ZyaDcs2dIgK_E-bsww7Sv51PcCcT0vdc1T2rGbQvVGSkGq2cbTHk3R79tB2YnYx';
+const apiKey = 'api=key';
 
 //const clientID = 'wwFu75HhDOOQH8K02WGBTQ'; https://cors-anywhere.herokuapp.com/
 
